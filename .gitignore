@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sqlite
+
+# Build results
+Debug/
+Release/
+
+# Rider / VSCode (optional)
+.idea/
+.vscode/
